@@ -15,7 +15,7 @@ i'm a male in england, and a polish and british citizen
 i like software, networks and data 
 
 everything here is currently passion projects, and likely private most of the time<br>
-if you're here for any of my mcsr stuff i said might be here (rng seedfinder, state tracker, queue list etc) send me a message 
+if you're here for any of my mcsr stuff i said might be here (rng seedfinder, state tracker, queue list etc) it's likely that i set it to private, send me a message 
 
 
 
